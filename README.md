@@ -25,8 +25,7 @@
   > Photos, videos, and CAD screenshots of the build process and final working
   machine.
 
-  **[View Project Media on Google Drive](https://drive.google.com/drive/folders/
-  1exFpOgrfdLZzJ8KUXEO8ME1OVfXH9eRG?usp=share_link)**
+  **[View Project Media on Google Drive](https://drive.google.com/drive/folders/1exFpOgrfdLZzJ8KUXEO8ME1OVfXH9eRG?usp=share_link)**
 
   ---
 
